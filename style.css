@@ -16,5 +16,13 @@ h1{
     padding-left: 2%;
 }
 .half-width img{
+        height: 50%;
         width: 100%;
+}
+.top-banner{
+    border: 1px solid red;
+    background-image: url("images/top-banner.png");
+}
+section{
+    height: 500px;
 }
