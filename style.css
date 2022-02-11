@@ -39,3 +39,9 @@ section{
 .Orange-highlight{
     color: orange;
 }
+.Banner{
+    background-image: url("images/dream-bg.png"); position: right;
+    background-repeat: no-repeat;
+    background-position: right;
+    
+}
